@@ -1,0 +1,1325 @@
+{
+ "1": {
+  "type": "det",
+  "meaning": "một (mạo từ)",
+  "reason": "original meaning wrong; \"a\" is an article"
+ },
+ "23": {
+  "meaning": "chỗ ở, chỗ trọ; sự thích nghi, sự điều tiết",
+  "reason": "missing main sense"
+ },
+ "30": {
+  "meaning": "đạt được, giành được",
+  "reason": "typo dành->giành"
+ },
+ "34": {
+  "meaning": "giành được, đạt được, kiếm được",
+  "reason": "typo dành->giành"
+ },
+ "44": {
+  "meaning": "thực sự, thực tế là",
+  "reason": "wrong meaning"
+ },
+ "45": {
+  "meaning": "thích nghi, điều chỉnh; chuyển thể",
+  "reason": "wrong meaning"
+ },
+ "55": {
+  "meaning": "thừa nhận; nhận vào, cho vào",
+  "reason": "missing main sense"
+ },
+ "58": {
+  "meaning": "sự tiến bộ, tiến lên; đưa lên, đề xuất",
+  "reason": "typo"
+ },
+ "59": {
+  "meaning": "tiên tiến, tiến bộ, cấp cao. in advance trước, sớm",
+  "reason": "typos"
+ },
+ "62": {
+  "meaning": "quảng cáo; báo cho biết, báo cho biết trước",
+  "reason": "missing main sense"
+ },
+ "79": {
+  "meaning": "cơ quan, hãng, đại lý; tác dụng, lực; môi giới, trung gian",
+  "reason": "missing main sense"
+ },
+ "86": {
+  "meaning": "sự giúp đỡ; giúp đỡ",
+  "reason": "wrong meaning for verb"
+ },
+ "97": {
+  "type": "det, pron, adv",
+  "reason": "missing det"
+ },
+ "108": {
+  "meaning": "thuộc bảng chữ cái",
+  "reason": "typo chứ->chữ"
+ },
+ "152": {
+  "type": "det, pron, adv",
+  "reason": "garbled type"
+ },
+ "153": {
+  "word": "anyone (anybody)",
+  "reason": "truncated word"
+ },
+ "155": {
+  "meaning": "thế nào cũng được, dù sao chăng nữa",
+  "reason": "typo sấo->sao"
+ },
+ "168": {
+  "meaning": "đơn xin, sự xin việc; sự áp dụng, ứng dụng; sự gắn vào; sự chuyên cần",
+  "reason": "missing main sense"
+ },
+ "172": {
+  "meaning": "đánh giá cao, cảm kích; thấy rõ, nhận thức",
+  "reason": "missing main sense"
+ },
+ "176": {
+  "type": "v",
+  "reason": "garbage in type"
+ },
+ "178": {
+  "type": "adj",
+  "meaning": "xấp xỉ, gần đúng; giống với",
+  "reason": "garbage in type; wrong meaning"
+ },
+ "182": {
+  "meaning": "tranh cãi, tranh luận; chứng tỏ, chỉ rõ",
+  "reason": "wrong meaning"
+ },
+ "183": {
+  "meaning": "cuộc tranh cãi, tranh luận; lý lẽ",
+  "reason": "missing main sense"
+ },
+ "203": {
+  "type": "adv",
+  "reason": "missing type"
+ },
+ "205": {
+  "meaning": "về một bên, sang một bên. aside from: ngoài ra, trừ ra",
+  "reason": "typo trư->trừ"
+ },
+ "208": {
+  "meaning": "khía cạnh, mặt; vẻ bề ngoài, diện mạo",
+  "reason": "missing main sense"
+ },
+ "214": {
+  "meaning": "cho rằng, giả sử; mang, khoác, có, lấy (cái vẻ, tính chất…)",
+  "reason": "missing main sense"
+ },
+ "215": {
+  "meaning": "đảm bảo, quả quyết",
+  "reason": "wrong meaning"
+ },
+ "230": {
+  "meaning": "thính giả, khán giả",
+  "reason": "typos"
+ },
+ "241": {
+  "meaning": "thức, tỉnh táo",
+  "reason": "wrong meaning for adj"
+ },
+ "245": {
+  "meaning": "tồi tệ, khủng khiếp, dễ sợ",
+  "reason": "wrong meaning"
+ },
+ "247": {
+  "meaning": "vụng về, lúng túng",
+  "reason": "typo lung->lúng"
+ },
+ "248": {
+  "meaning": "vụng về, lúng túng",
+  "reason": "typo lung->lúng"
+ },
+ "265": {
+  "meaning": "ngân hàng; bờ (sông…), đê",
+  "reason": "missing main sense"
+ },
+ "268": {
+  "meaning": "rào chắn, chướng ngại vật",
+  "reason": "wrong meaning"
+ },
+ "276": {
+  "meaning": "trận đánh, chiến trận",
+  "reason": "wrong meaning"
+ },
+ "310": {
+  "type": "adj, n",
+  "meaning": "cong, bị uốn cong; khiếu, sở thích, khuynh hướng",
+  "reason": "wrong pos/meaning"
+ },
+ "327": {
+  "meaning": "miếng, mảnh. a bit một chút, một ít",
+  "reason": "truncated text"
+ },
+ "338": {
+  "type": "adj, n",
+  "reason": "duplicated type"
+ },
+ "339": {
+  "meaning": "máu, huyết; sự tàn sát, chém giết",
+  "reason": "typo chem->chém"
+ },
+ "340": {
+  "meaning": "thổi; cú đánh, sự thổi",
+  "reason": "wrong meaning"
+ },
+ "346": {
+  "meaning": "quả bom; ném bom, thả bom",
+  "reason": "typo oánh->ném"
+ },
+ "351": {
+  "meaning": "làm buồn chán, làm chán",
+  "reason": "wrong meaning for verb"
+ },
+ "367": {
+  "meaning": "ngành; nhành cây, nhánh sông, ngả đường",
+  "reason": "typo song->sông"
+ },
+ "433": {
+  "type": "adj",
+  "reason": "garbage in type"
+ },
+ "465": {
+  "type": "n",
+  "reason": "missing type"
+ },
+ "475": {
+  "meaning": "dây, xích; xích lại, trói lại",
+  "reason": "typo xính->xích"
+ },
+ "481": {
+  "meaning": "thay đổi, sự thay đổi, sự biến đổi",
+  "reason": "typo thấy->thay"
+ },
+ "487": {
+  "meaning": "lòng từ thiện, lòng nhân đức; sự bố thí",
+  "reason": "typo tư->từ"
+ },
+ "493": {
+  "meaning": "lừa, lừa đảo; trò lừa đảo, trò gian lận",
+  "reason": "typo lưa->lừa"
+ },
+ "496": {
+  "meaning": "vui mừng, phấn khởi, hồ hởi",
+  "reason": "typo mưng->mừng"
+ },
+ "501": {
+  "meaning": "hiệu thuốc",
+  "reason": "wrong meaning"
+ },
+ "504": {
+  "meaning": "ngực; tủ, rương, hòm",
+  "reason": "missing main sense"
+ },
+ "520": {
+  "meaning": "công dân, người dân",
+  "reason": "wrong meaning"
+ },
+ "529": {
+  "meaning": "rõ ràng, trong; làm sạch, dọn dẹp",
+  "reason": "meaning belongs to another sense"
+ },
+ "531": {
+  "meaning": "thư ký, nhân viên văn phòng",
+  "reason": "wrong meaning"
+ },
+ "539": {
+  "meaning": "gần, thân thiết; chật chội, kín",
+  "reason": "wrong meaning"
+ },
+ "540": {
+  "meaning": "đóng, đóng cửa; khép kín, không cởi mở",
+  "reason": "missing main sense"
+ },
+ "561": {
+  "meaning": "trường cao đẳng, trường đại học",
+  "reason": "typo cấo->cao"
+ },
+ "577": {
+  "meaning": "sự cam kết; sự tận tụy, tận tâm",
+  "reason": "wrong meaning"
+ },
+ "583": {
+  "meaning": "cộng đồng; dân chúng, nhân dân",
+  "reason": "missing main sense"
+ },
+ "588": {
+  "meaning": "sự cạnh tranh, cuộc thi, cuộc thi đấu",
+  "reason": "typo đau->đấu"
+ },
+ "603": {
+  "type": "prep",
+  "meaning": "về, liên quan đến",
+  "reason": "wrong pos"
+ },
+ "623": {
+  "meaning": "sự chúc mừng, khen ngợi; lời chúc mừng, khen ngợi (s)",
+  "reason": "typo mưng->mừng"
+ },
+ "635": {
+  "meaning": "không đổi, liên tục; kiên trì, bền lòng",
+  "reason": "missing main sense"
+ },
+ "636": {
+  "meaning": "liên tục, luôn luôn",
+  "reason": "wrong meaning"
+ },
+ "679": {
+  "meaning": "ho, sự ho, tiếng ho",
+  "reason": "typo hoa->ho"
+ },
+ "697": {
+  "meaning": "vết nứt, tiếng nổ giòn; làm nứt, làm vỡ, nứt nẻ, rạn nứt",
+  "reason": "wrong meaning"
+ },
+ "700": {
+  "meaning": "sự rơi (máy bay), sự đâm sầm, sự phá sản, sụp đổ; phá tan tành, phá vụn",
+  "reason": "wrong meaning/typo"
+ },
+ "705": {
+  "meaning": "sự tin, lòng tin, danh tiếng; tiền gửi ngân hàng; tín dụng",
+  "reason": "typo gử->gửi"
+ },
+ "734": {
+  "meaning": "hiện hành, phổ biến, hiện nay; dòng (nước), luồng (gió)",
+  "reason": "typos"
+ },
+ "747": {
+  "meaning": "mối hại, điều hại, sự thiệt hại; làm hư hại, làm hỏng, gây thiệt hại",
+  "reason": "typo hạn->hại"
+ },
+ "780": {
+  "meaning": "đánh thắng, đánh bại; sự thất bại (1 kế hoạch), sự tiêu tan (hy vọng..)",
+  "reason": "typo hyvọng"
+ },
+ "794": {
+  "meaning": "giao hàng, phân phát; cứu khỏi, thoát khỏi, bày tỏ, giãi bày",
+  "reason": "missing main sense"
+ },
+ "795": {
+  "meaning": "sự phân phát, sự phân phối, sự giao hàng; sự bày tỏ, phát biểu",
+  "reason": "typo biếu->biểu"
+ },
+ "802": {
+  "type": "v",
+  "reason": "garbage in type"
+ },
+ "806": {
+  "meaning": "làm chán nản, làm thất vọng, làm trì trệ",
+  "reason": "typo thát->thất"
+ },
+ "826": {
+  "meaning": "quyết tâm; đã được xác định, đã được xác định rõ",
+  "reason": "missing main sense"
+ },
+ "836": {
+  "meaning": "chết, từ trần, hy sinh",
+  "reason": "typo tư->từ"
+ },
+ "841": {
+  "meaning": "khó, khó khăn, gay go",
+  "reason": "typo gấy->gay"
+ },
+ "844": {
+  "meaning": "bữa tối, bữa chính",
+  "reason": "wrong meaning"
+ },
+ "846": {
+  "meaning": "phương hướng, chiều; sự điều khiển, sự chỉ huy",
+  "reason": "missing main sense"
+ },
+ "851": {
+  "meaning": "tàn tật, khuyết tật",
+  "reason": "wrong sense"
+ },
+ "860": {
+  "meaning": "sự phản đối, sự không tán thành",
+  "reason": "typo"
+ },
+ "861": {
+  "type": "v",
+  "reason": "garbage in type"
+ },
+ "879": {
+  "meaning": "sự không ưa, không thích, sự ghét; ghét, không thích",
+  "reason": "typo ghé->ghét"
+ },
+ "889": {
+  "meaning": "gây lo lắng, đáng lo ngại",
+  "reason": "wrong sense"
+ },
+ "894": {
+  "type": "auxiliary v, v",
+  "reason": "type garbage"
+ },
+ "902": {
+  "meaning": "chấm nhỏ, điểm",
+  "reason": "wrong sense (dowry)"
+ },
+ "906": {
+  "meaning": "ở dưới nhà, ở tầng dưới; xuống gác; tầng dưới",
+  "reason": "typo"
+ },
+ "909": {
+  "type": "n, det",
+  "reason": "invalid type"
+ },
+ "916": {
+  "meaning": "ngăn kéo",
+  "reason": "wrong sense"
+ },
+ "932": {
+  "meaning": "tẻ nhạt, buồn tẻ; xỉn, mờ; chậm hiểu",
+  "reason": "missing main sense"
+ },
+ "936": {
+  "meaning": "sự tôn kính, kính trọng; bổn phận, trách nhiệm",
+  "reason": "typo"
+ },
+ "938": {
+  "meaning": "sắp chết, hấp hối",
+  "reason": "wrong meaning"
+ },
+ "939": {
+  "meaning": "Viết tắt của cụm từ La tinh exempli gratia (for example)",
+  "reason": "typos"
+ },
+ "941": {
+  "type": "pron",
+  "reason": "wrong type"
+ },
+ "942": {
+  "type": "pron",
+  "reason": "missing type"
+ },
+ "954": {
+  "meaning": "nền kinh tế; sự tiết kiệm, sự quản lý kinh tế",
+  "reason": "missing main sense"
+ },
+ "955": {
+  "meaning": "lưỡi, cạnh; rìa, mép",
+  "reason": "missing main sense"
+ },
+ "956": {
+  "meaning": "lần xuất bản, ấn bản",
+  "reason": "wrong sense"
+ },
+ "989": {
+  "meaning": "sự xúc động, sự cảm động, mối xúc cảm",
+  "reason": "typos"
+ },
+ "1001": {
+  "meaning": "chạm trán, bắt gặp; sự chạm trán, sự bắt gặp",
+  "reason": "typo"
+ },
+ "1002": {
+  "meaning": "động viên, ủng hộ, giúp đỡ, làm can đảm, mạnh dạn",
+  "reason": "typo"
+ },
+ "1030": {
+  "meaning": "sự đi vào; lối vào, cổng",
+  "reason": "missing main sense"
+ },
+ "1037": {
+  "meaning": "trang thiết bị",
+  "reason": "typo"
+ },
+ "1038": {
+  "meaning": "tương đương; từ, vật tương đương",
+  "reason": "typo"
+ },
+ "1040": {
+  "meaning": "trốn thoát, thoát khỏi; sự trốn thoát, lối thoát",
+  "reason": "typo"
+ },
+ "1048": {
+  "type": "adv",
+  "reason": "missing type"
+ },
+ "1059": {
+  "meaning": "bằng chứng, chứng cứ",
+  "reason": "wrong sense"
+ },
+ "1061": {
+  "meaning": "tiền tố: cựu, trước đây",
+  "reason": "wrong sense"
+ },
+ "1065": {
+  "meaning": "cường điệu, phóng đại",
+  "reason": "typo"
+ },
+ "1079": {
+  "meaning": "ngoài ra, trừ ra",
+  "reason": "typo"
+ },
+ "1081": {
+  "meaning": "người điều hành, cán bộ quản lý; (thuộc) sự thi hành, điều hành",
+  "reason": "missing main sense"
+ },
+ "1087": {
+  "meaning": "lối ra, sự đi ra, thoát ra",
+  "reason": "typo"
+ },
+ "1095": {
+  "meaning": "có kinh nghiệm, từng trải, giàu kinh nghiệm",
+  "reason": "typo"
+ },
+ "1107": {
+  "meaning": "giơ, duỗi ra (tay, chân); kéo dài (thời gian), dành cho, gửi lời",
+  "reason": "garbage chars"
+ },
+ "1110": {
+  "type": "n",
+  "reason": "invalid type"
+ },
+ "1121": {
+  "meaning": "thất bại, hỏng, trượt",
+  "reason": "wrong sense"
+ },
+ "1123": {
+  "meaning": "mờ nhạt, yếu ớt",
+  "reason": "wrong sense"
+ },
+ "1124": {
+  "meaning": "mờ nhạt, yếu ớt",
+  "reason": "wrong sense"
+ },
+ "1126": {
+  "meaning": "khá, tương đối; hợp lý, công bằng",
+  "reason": "missing main sense"
+ },
+ "1133": {
+  "meaning": "thân thiết, quen thuộc",
+  "reason": "typo"
+ },
+ "1154": {
+  "meaning": "nét đặc biệt, điểm đặc trưng; mô tả nét đặc biệt, đặc trưng của…",
+  "reason": "typo"
+ },
+ "1174": {
+  "meaning": "làm đầy, lấp kín",
+  "reason": "typo"
+ },
+ "1189": {
+  "meaning": "thứ nhất, đầu tiên, trước hết; người, vật đầu tiên, thứ nhất. at first lúc đầu",
+  "reason": "wrong phrase meaning"
+ },
+ "1192": {
+  "meaning": "hợp, vừa; thích hợp, xứng đáng",
+  "reason": "typo"
+ },
+ "1194": {
+  "meaning": "cố định, đã được sửa",
+  "reason": "wrong sense"
+ },
+ "1203": {
+  "meaning": "lụt, lũ lụt; tràn đầy, tràn ngập",
+  "reason": "typo"
+ },
+ "1222": {
+  "meaning": "(thuộc) nước ngoài, từ nước ngoài, ở nước ngoài",
+  "reason": "typo"
+ },
+ "1229": {
+  "meaning": "trang trọng, chính thức",
+  "reason": "wrong sense"
+ },
+ "1237": {
+  "meaning": "thành lập, sáng lập",
+  "reason": "wrong sense (found = establish)"
+ },
+ "1256": {
+  "meaning": "từ",
+  "reason": "garbage/typo"
+ },
+ "1265": {
+  "meaning": "chức năng; hoạt động, chạy (máy)",
+  "reason": "typo"
+ },
+ "1282": {
+  "meaning": "rác, rác thải",
+  "reason": "wrong sense"
+ },
+ "1285": {
+  "meaning": "xăng",
+  "reason": "wrong sense"
+ },
+ "1306": {
+  "meaning": "cho, biếu, tặng. give sth away cho phát. give sth out: chia, phân phối give (sth) up bỏ, từ bỏ",
+  "reason": "typo"
+ },
+ "1307": {
+  "word": "give birth to",
+  "type": "v",
+  "reason": "split phrase/garbage type"
+ },
+ "1311": {
+  "type": "adj",
+  "reason": "invalid type"
+ },
+ "1318": {
+  "meaning": "tốt, hay, tuyệt; điều tốt, điều thiện. good at: giỏi về. good for: có lợi cho",
+  "reason": "wrong phrase meaning"
+ },
+ "1327": {
+  "meaning": "dần dần, từng bước một",
+  "reason": "typo"
+ },
+ "1328": {
+  "meaning": "dần dần, từ từ",
+  "reason": "typo"
+ },
+ "1330": {
+  "meaning": "gam (đơn vị khối lượng)",
+  "reason": "wrong sense"
+ },
+ "1331": {
+  "meaning": "gam (đơn vị khối lượng)",
+  "reason": "wrong sense"
+ },
+ "1340": {
+  "meaning": "cho, cấp, ban; sự cho, sự cấp, tiền trợ cấp",
+  "reason": "wrong sense (bán)"
+ },
+ "1344": {
+  "type": "adj, n",
+  "reason": "missing type"
+ },
+ "1358": {
+  "meaning": "đoán, phỏng đoán; sự đoán, sự ước chừng",
+  "reason": "typo"
+ },
+ "1378": {
+  "meaning": "hầu như không, gần như không",
+  "reason": "wrong sense"
+ },
+ "1384": {
+  "meaning": "lòng căm thù, sự căm ghét",
+  "reason": "typo"
+ },
+ "1385": {
+  "type": "auxiliary v, v",
+  "reason": "type garbage"
+ },
+ "1386": {
+  "type": "modal v",
+  "reason": "type garbage"
+ },
+ "1387": {
+  "type": "pron",
+  "reason": "invalid type"
+ },
+ "1388": {
+  "meaning": "cái đầu (người, thú); chỉ huy, lãnh đạo, dẫn đầu",
+  "reason": "typo"
+ },
+ "1413": {
+  "meaning": "ngập ngừng, do dự",
+  "reason": "typo"
+ },
+ "1463": {
+  "meaning": "vội vàng, hấp tấp; sự vội vàng, sự gấp rút. in a hurry: vội vàng, hối hả, gấp rút",
+  "reason": "missing verb sense"
+ },
+ "1466": {
+  "type": "abbr",
+  "reason": "missing type"
+ },
+ "1488": {
+  "meaning": "sự va chạm, sự tác động, ảnh hưởng",
+  "reason": "typo"
+ },
+ "1493": {
+  "meaning": "sự nhập khẩu; nhập, nhập khẩu",
+  "reason": "garbage word in meaning"
+ },
+ "1500": {
+  "meaning": "có ấn tượng, cảm kích",
+  "reason": "wrong sense"
+ },
+ "1503": {
+  "meaning": "cải thiện, cải tiến, mở mang",
+  "reason": "typo"
+ },
+ "1506": {
+  "word": "in addition to",
+  "type": "prep",
+  "reason": "split phrase/garbage type"
+ },
+ "1517": {
+  "meaning": "ngày càng tăng",
+  "reason": "wrong sense"
+ },
+ "1555": {
+  "type": "v",
+  "reason": "garbage in type"
+ },
+ "1562": {
+  "meaning": "nhạc cụ; dụng cụ",
+  "reason": "wrong sense"
+ },
+ "1582": {
+  "meaning": "khoảng (khoảng thời gian), khoảng cách",
+  "reason": "typo"
+ },
+ "1597": {
+  "meaning": "sắt; bàn là; là (quần áo)",
+  "reason": "missing main sense"
+ },
+ "1603": {
+  "type": "pron",
+  "reason": "invalid type"
+ },
+ "1604": {
+  "meaning": "mục, khoản, món; tiết mục; tin tức",
+  "reason": "garbage chars"
+ },
+ "1610": {
+  "meaning": "ghen, ghen tị",
+  "reason": "typo"
+ },
+ "1629": {
+  "meaning": "đúng, vừa đủ; vừa mới, chỉ",
+  "reason": "typo"
+ },
+ "1635": {
+  "meaning": "chìa khóa, phím; chủ chốt, quan trọng",
+  "reason": "wrong sense"
+ },
+ "1638": {
+  "meaning": "đứa trẻ, trẻ con; dê non",
+  "reason": "missing main sense"
+ },
+ "1652": {
+  "meaning": "đan",
+  "reason": "wrong sense"
+ },
+ "1653": {
+  "meaning": "được đan",
+  "reason": "wrong sense"
+ },
+ "1656": {
+  "meaning": "nút thắt; điểm nút, điểm trung tâm",
+  "reason": "wrong sense"
+ },
+ "1662": {
+  "type": "n, v",
+  "reason": "garbage in type"
+ },
+ "1663": {
+  "meaning": "thiếu, không có",
+  "reason": "wrong sense"
+ },
+ "1672": {
+  "meaning": "phần lớn, ở mức độ lớn",
+  "reason": "wrong sense"
+ },
+ "1673": {
+  "type": "det, adv, n, v",
+  "reason": "stray comma"
+ },
+ "1677": {
+  "meaning": "thứ hai (trong hai), sau",
+  "reason": "wrong sense"
+ },
+ "1679": {
+  "meaning": "hạ thủy (tàu); khai trương; sự hạ thủy, buổi giới thiệu sản phẩm",
+  "reason": "typo"
+ },
+ "1689": {
+  "meaning": "liên minh, liên đoàn",
+  "reason": "wrong sense"
+ },
+ "1709": {
+  "meaning": "giấy phép, bằng, chứng chỉ; sự cho phép",
+  "reason": "main sense missing"
+ },
+ "1717": {
+  "type": "prep, v, conj",
+  "reason": "type typo"
+ },
+ "1726": {
+  "type": "v",
+  "reason": "garbage 'to' in type"
+ },
+ "1730": {
+  "type": "v, adj, adv",
+  "reason": "missing verb"
+ },
+ "1736": {
+  "meaning": "có tính chất địa phương, cục bộ",
+  "reason": "typo"
+ },
+ "1754": {
+  "type": "pron, det, adv",
+  "reason": "stray comma"
+ },
+ "1783": {
+  "meaning": "trung tâm mua sắm",
+  "reason": "wrong meaning"
+ },
+ "1797": {
+  "meaning": "tiếp thị, marketing",
+  "reason": "wrong meaning"
+ },
+ "1805": {
+  "meaning": "phù hợp, tương xứng, xứng đôi",
+  "reason": "wrong meaning"
+ },
+ "1811": {
+  "type": "modal v",
+  "reason": "type format"
+ },
+ "1815": {
+  "type": "pron",
+  "reason": "type typo"
+ },
+ "1827": {
+  "meaning": "trung bình, trung, vừa; sự trung gian, sự môi giới",
+  "reason": "typo"
+ },
+ "1829": {
+  "meaning": "cuộc họp, cuộc gặp, cuộc mít tinh",
+  "reason": "main sense is a meeting"
+ },
+ "1840": {
+  "meaning": "tình trạng bừa bộn, tình trạng lộn xộn; người nhếch nhác, bẩn thỉu",
+  "reason": "typo"
+ },
+ "1858": {
+  "meaning": "khoáng chất; (thuộc) khoáng",
+  "reason": "wrong meaning"
+ },
+ "1889": {
+  "type": "det, pron, n, adv",
+  "reason": "type typo"
+ },
+ "1905": {
+  "meaning": "Bà (đã kết hôn), Cô",
+  "reason": "wrong meaning"
+ },
+ "1917": {
+  "type": "modal v",
+  "reason": "type format"
+ },
+ "1940": {
+  "type": "v, modal v, n",
+  "reason": "type format"
+ },
+ "1970": {
+  "type": "n, pron",
+  "reason": "type typo"
+ },
+ "1988": {
+  "type": "n",
+  "reason": "garbage in type"
+ },
+ "2025": {
+  "type": "adv, prep",
+  "reason": "type missing prep"
+ },
+ "2027": {
+  "word": "one",
+  "type": "number, det, pron",
+  "reason": "garbage in word/type"
+ },
+ "2042": {
+  "type": "adj, adv, n, prep",
+  "reason": "type typo"
+ },
+ "2046": {
+  "meaning": "thứ, bậc; mệnh lệnh; ra lệnh. in order to: để, nhằm",
+  "reason": "wrong 'in order to'"
+ },
+ "2048": {
+  "meaning": "đàn organ; cơ quan (trong cơ thể)",
+  "reason": "wrong meaning"
+ },
+ "2057": {
+  "type": "modal v",
+  "reason": "type format"
+ },
+ "2059": {
+  "type": "pron",
+  "reason": "wrong type"
+ },
+ "2061": {
+  "type": "adv, prep",
+  "reason": "garbage in type"
+ },
+ "2065": {
+  "meaning": "vẽ, phác thảo; đường nét, hình dáng, nét ngoài",
+  "reason": "typo"
+ },
+ "2068": {
+  "meaning": "nổi bật, đáng chú ý; còn tồn tại",
+  "reason": "typo"
+ },
+ "2074": {
+  "meaning": "của chính mình, tự mình; có, sở hữu, nhận",
+  "reason": "missing main sense"
+ },
+ "2090": {
+  "meaning": "tái, nhợt",
+  "reason": "typo"
+ },
+ "2097": {
+  "meaning": "công viên, vườn hoa; đỗ (xe)",
+  "reason": "missing main verb sense"
+ },
+ "2098": {
+  "meaning": "nghị viện, quốc hội",
+  "reason": "typo"
+ },
+ "2116": {
+  "meaning": "tạm nghỉ, dừng; sự tạm nghỉ, sự tạm ngưng",
+  "reason": "typo"
+ },
+ "2131": {
+  "type": "n, adj, adv",
+  "reason": "type typo"
+ },
+ "2148": {
+  "meaning": "vật nuôi, vật cưng; cơn nóng giận",
+  "reason": "main sense missing"
+ },
+ "2156": {
+  "meaning": "câu; thành ngữ, cụm từ",
+  "reason": "typo"
+ },
+ "2161": {
+  "meaning": "hái, chọn, nhặt. pick sth up: nhặt lên, đón",
+  "reason": "wrong meaning"
+ },
+ "2182": {
+  "meaning": "đĩa; bản, tấm kim loại",
+  "reason": "missing main sense"
+ },
+ "2188": {
+  "meaning": "làm vui lòng, vừa lòng, mong... vui lòng, xin mời",
+  "reason": "typo"
+ },
+ "2192": {
+  "type": "n, adv, det, pron",
+  "meaning": "nhiều, rất nhiều; sự sung túc, sự phong phú",
+  "reason": "garbled meaning/type"
+ },
+ "2195": {
+  "type": "n, adj, conj, prep",
+  "reason": "type spacing"
+ },
+ "2203": {
+  "meaning": "cột, sào; cực (nam châm, trái đất)",
+  "reason": "wrong main sense/typo"
+ },
+ "2210": {
+  "meaning": "về mặt chính trị",
+  "reason": "wrong meaning"
+ },
+ "2212": {
+  "meaning": "hoạt động chính trị, đời sống chính trị, quan điểm chính trị",
+  "reason": "typo"
+ },
+ "2246": {
+  "meaning": "đúng, chính xác, cẩn thận",
+  "reason": "typo"
+ },
+ "2251": {
+  "meaning": "nhà cửa, khuôn viên, cơ ngơi",
+  "reason": "wrong meaning"
+ },
+ "2255": {
+  "meaning": "sự hiện diện, sự có mặt; người, vật hiện diện",
+  "reason": "typo"
+ },
+ "2259": {
+  "meaning": "chủ tịch, tổng thống",
+  "reason": "wrong meaning/typo"
+ },
+ "2264": {
+  "meaning": "khá, vừa phải; xinh, xinh xắn, đẹp",
+  "reason": "typo"
+ },
+ "2265": {
+  "meaning": "ngăn cản, ngăn chặn, ngăn ngừa",
+  "reason": "typo"
+ },
+ "2266": {
+  "meaning": "trước (vd. ngày hôm trước), trước đây",
+  "reason": "wrong meaning"
+ },
+ "2272": {
+  "meaning": "chính, chủ yếu; sơ cấp, tiểu học",
+  "reason": "missing main sense"
+ },
+ "2274": {
+  "meaning": "hoàng tử",
+  "reason": "typo"
+ },
+ "2276": {
+  "meaning": "nguyên lý, nguyên tắc",
+  "reason": "wrong meaning"
+ },
+ "2281": {
+  "meaning": "sự ưu tiên, quyền ưu tiên",
+  "reason": "typo"
+ },
+ "2291": {
+  "meaning": "tiến lên, theo đuổi, tiếp diễn",
+  "reason": "typo"
+ },
+ "2315": {
+  "meaning": "tài sản, của cải; đất đai, nhà cửa, bất động sản",
+  "reason": "typo"
+ },
+ "2318": {
+  "meaning": "đề nghị, đề xuất, đưa ra",
+  "reason": "typo"
+ },
+ "2328": {
+  "word": "pub, public house",
+  "reason": "garbage in word"
+ },
+ "2337": {
+  "meaning": "phạt, trừng phạt",
+  "reason": "typo"
+ },
+ "2338": {
+  "meaning": "sự trừng phạt, sự trừng trị",
+  "reason": "typo"
+ },
+ "2361": {
+  "meaning": "rời bỏ, từ bỏ, nghỉ (việc); thoát",
+  "reason": "wrong meaning"
+ },
+ "2398": {
+  "meaning": "giấy biên nhận, hóa đơn; sự nhận",
+  "reason": "wrong meaning"
+ },
+ "2404": {
+  "meaning": "sự công nhận, sự thừa nhận",
+  "reason": "typo"
+ },
+ "2405": {
+  "meaning": "nhận ra, nhận diện; công nhận, thừa nhận",
+  "reason": "typo"
+ },
+ "2431": {
+  "type": "adj",
+  "reason": "garbage in type"
+ },
+ "2434": {
+  "meaning": "có liên quan đến; người có họ, đại từ quan hệ",
+  "reason": "typos"
+ },
+ "2435": {
+  "meaning": "tương đối",
+  "reason": "wrong meaning"
+ },
+ "2447": {
+  "meaning": "đồ thừa, cái còn lại",
+  "reason": "typo"
+ },
+ "2454": {
+  "meaning": "việc di chuyển, việc dọn nhà, dời đi",
+  "reason": "typo"
+ },
+ "2474": {
+  "meaning": "sự đặt trước; sự hạn chế, điều kiện hạn chế",
+  "reason": "missing main sense"
+ },
+ "2477": {
+  "meaning": "chống lại, phản đối, kháng cự",
+  "reason": "typo"
+ },
+ "2480": {
+  "meaning": "khu nghỉ dưỡng; kế sách, phương kế",
+  "reason": "missing main sense"
+ },
+ "2513": {
+  "meaning": "môn thể thao cưỡi ngựa, sự đi xe (bus, điện, xe đạp)",
+  "reason": "typo"
+ },
+ "2514": {
+  "meaning": "thẳng, phải, tốt; ngay, đúng; điều thiện, điều phải, tốt, bên phải",
+  "reason": "typo"
+ },
+ "2516": {
+  "meaning": "chiếc nhẫn; rung (chuông), gọi điện thoại",
+  "reason": "missing main verb sense"
+ },
+ "2530": {
+  "meaning": "dây cáp, dây thừng, xâu, chuỗi",
+  "reason": "typo"
+ },
+ "2560": {
+  "meaning": "sự an toàn, sự chắc chắn",
+  "reason": "typo"
+ },
+ "2564": {
+  "meaning": "sa lát (xà lách trộn dầu dấm); rau sống",
+  "reason": "typo"
+ },
+ "2569": {
+  "meaning": "giống nhau, cùng một; cũng như thế, vẫn cái đó",
+  "reason": "wrong main sense"
+ },
+ "2573": {
+  "meaning": "cảm thấy hài lòng, vừa ý, thoả mãn",
+  "reason": "typo"
+ },
+ "2575": {
+  "meaning": "đem lại sự thỏa mãn, làm thỏa mãn, làm vừa ý",
+  "reason": "typo"
+ },
+ "2614": {
+  "word": "seem",
+  "reason": "\"linking\" is the verb type, not part of the word",
+  "type": "linking v"
+ },
+ "2618": {
+  "type": "prefix",
+  "reason": "type"
+ },
+ "2620": {
+  "meaning": "thượng nghị viện, ban giám hiệu",
+  "reason": "typo"
+ },
+ "2623": {
+  "meaning": "nhiều tuổi hơn, dành cho trẻ em trên 11t; người lớn tuổi hơn, sinh viên năm cuối trường trung học, cao đẳng",
+  "reason": "typo"
+ },
+ "2668": {
+  "meaning": "đổi chỗ, dời chỗ, chuyển, giao; sự thay đổi, sự luân phiên",
+  "reason": "typo"
+ },
+ "2711": {
+  "meaning": "thật thà, thẳng thắn, chân thành",
+  "reason": "typo"
+ },
+ "2726": {
+  "meaning": "có kỹ năng, có kỹ sảo, khéo tay; có kinh nghiệm, lành nghề",
+  "reason": "typo"
+ },
+ "2733": {
+  "meaning": "trượt, chuyển động nhẹ, lướt qua",
+  "reason": "typo"
+ },
+ "2735": {
+  "meaning": "một chút, hơi, nhẹ",
+  "reason": "wrong meaning"
+ },
+ "2741": {
+  "meaning": "thông minh, khéo léo, lịch sự; mạnh, ác liệt",
+  "reason": "wrong meaning"
+ },
+ "2742": {
+  "meaning": "đập, vỡ tan thành mảnh; sự đập, vỡ tan thành mảnh",
+  "reason": "typo"
+ },
+ "2765": {
+  "meaning": "một ít, một vài",
+  "reason": "typo"
+ },
+ "2768": {
+  "meaning": "một điều gì đó, một việc gì đó, một cái gì đó",
+  "reason": "typo"
+ },
+ "2807": {
+  "meaning": "làm hỏng, làm hư; chiều quá",
+  "reason": "wrong meaning"
+ },
+ "2818": {
+  "meaning": "nhân viên, đội ngũ nhân viên; gậy",
+  "reason": "missing main sense"
+ },
+ "2823": {
+  "meaning": "tiêu chuẩn, chuẩn, mẫu; làm tiêu chuẩn, phù hợp với tiêu chuẩn",
+  "reason": "typo"
+ },
+ "2825": {
+  "meaning": "nhìn chằm chằm; sự nhìn chằm chằm",
+  "reason": "typo"
+ },
+ "2834": {
+  "meaning": "vững chắc, vững vàng, kiên định",
+  "reason": "typo"
+ },
+ "2842": {
+  "meaning": "đâm, thọc, chọc, cắm, dính; cái gậy, que củi, cán",
+  "reason": "typo"
+ },
+ "2855": {
+  "meaning": "cơn giông, bão",
+  "reason": "typo"
+ },
+ "2901": {
+  "word": "street",
+  "reason": "garbage in word (meaning/ipa are for street)"
+ },
+ "2902": {
+  "meaning": "chịu đựng, chịu thiệt hại, đau khổ",
+  "reason": "typo"
+ },
+ "2944": {
+  "meaning": "áo len",
+  "reason": "wrong meaning"
+ },
+ "2951": {
+  "type": "n",
+  "reason": "missing type"
+ },
+ "2955": {
+  "word": "swell, swollen",
+  "reason": "garbage in word"
+ },
+ "2964": {
+  "meaning": "cầm, lấy, mang. take sth off: cởi, bỏ cái gì, lấy đi cái gì",
+  "reason": "meaning is noun sense, missing main sense"
+ },
+ "2965": {
+  "meaning": "chăm sóc, trông nom, giữ gìn",
+  "reason": "wrong meaning"
+ },
+ "2983": {
+  "meaning": "xé, làm rách; chỗ rách, miếng xé; nước mắt",
+  "reason": "typo"
+ },
+ "2993": {
+  "meaning": "có xu hướng, thường; trông nom, chăm sóc, giữ gìn, hầu hạ",
+  "reason": "missing main sense"
+ },
+ "3007": {
+  "type": "det",
+  "reason": "missing type"
+ },
+ "3080": {
+  "meaning": "cuộc đi du lịch, cuộc đi dạo, chuyến du lịch; đi du lịch",
+  "reason": "typo"
+ },
+ "3083": {
+  "meaning": "khăn tắm, khăn lau",
+  "reason": "typo"
+ },
+ "3103": {
+  "meaning": "bẫy, cạm bẫy; bẫy, giữ, chặn lại",
+  "reason": "wrong meaning/typo"
+ },
+ "3117": {
+  "meaning": "xe tải",
+  "reason": "wrong meaning"
+ },
+ "3128": {
+  "word": "TV",
+  "type": "n",
+  "reason": "garbage in word; missing type"
+ },
+ "3141": {
+  "meaning": "không có năng lực, không có tài, không thể, không có khả năng",
+  "reason": "typo"
+ },
+ "3143": {
+  "word": "unacceptable",
+  "reason": "duplicate/garbage in word"
+ },
+ "3145": {
+  "word": "uncertain",
+  "reason": "duplicate/garbage in word"
+ },
+ "3147": {
+  "meaning": "bất tiện, khó chịu, không thoải mái",
+  "reason": "typo"
+ },
+ "3148": {
+  "word": "uncomfortable",
+  "reason": "duplicate/garbage in word"
+ },
+ "3150": {
+  "word": "unconscious",
+  "reason": "duplicate/garbage in word"
+ },
+ "3152": {
+  "word": "uncontrolled",
+  "reason": "duplicate/garbage in word"
+ },
+ "3166": {
+  "word": "unfair",
+  "reason": "duplicate/garbage in word"
+ },
+ "3173": {
+  "meaning": "đồng phục; đều, giống nhau, đồng dạng",
+  "reason": "typo"
+ },
+ "3174": {
+  "meaning": "không quan trọng, không trọng đại",
+  "reason": "typo"
+ },
+ "3196": {
+  "type": "adj",
+  "reason": "missing type"
+ },
+ "3198": {
+  "type": "adj",
+  "reason": "missing type"
+ },
+ "3203": {
+  "meaning": "làm đổ, làm khó chịu, làm buồn bực; buồn bực, khó chịu",
+  "reason": "missing adj sense"
+ },
+ "3204": {
+  "meaning": "làm khó chịu, gây buồn bực",
+  "reason": "wrong meaning"
+ },
+ "3206": {
+  "meaning": "ở trên gác, cư ngụ ở tầng gác; tầng trên, gác",
+  "reason": "typo"
+ },
+ "3222": {
+  "meaning": "hợp lệ, có hiệu lực, hợp lý",
+  "reason": "wrong meaning"
+ },
+ "3236": {
+  "meaning": "phiên bản; bản dịch sang một ngôn ngữ khác",
+  "reason": "missing main sense"
+ },
+ "3257": {
+  "meaning": "thể tích, quyển, tập",
+  "reason": "typo"
+ },
+ "3290": {
+  "meaning": "trang web, website",
+  "reason": "wrong meaning"
+ },
+ "3335": {
+  "meaning": "chiếm, đoạt, thu được, thắng",
+  "reason": "typo"
+ },
+ "3348": {
+  "meaning": "trong vòng thời gian, trong khoảng thời gian",
+  "reason": "typo"
+ },
+ "3364": {
+  "type": "adj",
+  "meaning": "tệ hơn, tồi hơn; tệ nhất, tồi nhất",
+  "reason": "missing type/meaning (ipa_goc garbage)"
+ },
+ "3368": {
+  "meaning": "vết thương, thương tích; làm bị thương, gây thương tích",
+  "reason": "typo"
+ },
+ "3380": {
+  "meaning": "ngáp; cái ngáp",
+  "reason": "wrong meaning"
+ },
+ "3386": {
+  "meaning": "còn, hãy còn, còn nữa; nhưng, xong, tuy thế, tuy nhiên",
+  "reason": "typo"
+ },
+ "3390": {
+  "type": "pron",
+  "reason": "wrong type"
+ }
+}

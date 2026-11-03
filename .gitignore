@@ -1,0 +1,7 @@
+node_modules
+dist
+.venv
+__pycache__
+.DS_Store
+# PDF gốc có bản quyền và đã khóa sao chép, không đưa lên repo công khai
+3000.pdf
